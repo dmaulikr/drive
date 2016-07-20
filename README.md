@@ -8,4 +8,4 @@ Speed Boost Off: DOWN
 Made for a college project, written in C# using Microsoft Visual Studio and the Game SDK engine.
 Author: Leo Hajder (github.com/lhajder)
 
-![Screenshot](bin\Debug\naslovnica.png)
+![Screenshot](https://github.com/lhajder/DRIVE/blob/master/bin/Debug/naslovnica.png?raw=true)
