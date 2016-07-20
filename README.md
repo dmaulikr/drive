@@ -5,7 +5,7 @@ Steering: LEFT, RIGHT
 Speed Boost On: UP
 Speed Boost Off: DOWN
 
-Made for a college project, written in C# using Microsoft Visual Studio and the Game SDK engine.
+Made for a college project, written in C# using Microsoft Visual Studio and the Game SDK engine. <br/>
 Author: Leo Hajder (github.com/lhajder)
 
 ![Screenshot](https://github.com/lhajder/DRIVE/blob/master/bin/Debug/naslovnica.png?raw=true)
