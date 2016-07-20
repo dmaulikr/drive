@@ -10,5 +10,6 @@ Author: Leo Hajder (github.com/lhajder)
 
 EDIT: There is an unexpected bug in Game SDK that wasn't there at the time of
 development (VS 2013). Just download the bin/debug folder and click on DR!VE.exe to play.
+I plan to sort that out, and maybe rewrite the whole game.. Please excuse the variable names and comments in Croatian, that will be fixed as well.
 
 ![Screenshot](https://github.com/lhajder/DRIVE/blob/master/bin/Debug/naslovnica.png?raw=true)
